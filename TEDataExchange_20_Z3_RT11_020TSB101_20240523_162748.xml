@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xslt"?>
+<ListOfDevices Originator="TOUCHPAD" Generated="2024-05-23 16:27:54">
+  <Device DeviceCategory="TE" DeviceType="TE1500AC" DeviceName="20_Z3_RT11_020TSB101" CPMSerialNumber="04-11-1c-4c-36-00-00-00" FabricationNumber="17/05469540010001">
+    <ParameterSet ComponentName="WELDPROGRAM" ComponentTypeName="" Stud_ID="1-003" ComponentID="12" ComponentTypeID="0" SetType="2">
+      <Parameters>
+        <Parameter ParameterID="0xC002" DataType="BYTE" DefaultValue="0" StepSize="" MinValue="0" MaxValue="5" MaxDataLength="1" Unit="" ParameterName="Outlet Number">1</Parameter>
+        <!-- More parameters here... -->
+      </Parameters>
+    </ParameterSet>
+  </Device>
+</ListOfDevices>
